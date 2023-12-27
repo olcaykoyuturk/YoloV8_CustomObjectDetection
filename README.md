@@ -3,7 +3,7 @@
 <p>Overview: Using the model we trained ourselves, object recognition and detection in images captured from a webcam with YOLOv8..</p>
 
 ## **-How does it work**
-<p>Step 1: Create a dataset using Roboflow.</p>
+<p>Step 1: Create a dataset using Roboflow.The better you train your model, the better it performs. Don't forget to use high-quality photos and a sufficient number of images</p>
 <p>Step 2: Run YoloV8_TrainCustomObjectDetection.ipynb to train the model on your dataset and download the best.pt file.</p>
 <p>Step 3: Run objectDetection.py.</p>
 
