@@ -9,6 +9,6 @@
 
 ## **-Example Images:**
 <p align="center">
-  <img src="https://github.com/olcaykoyuturk/YoloV8_CustomObjectDetection/blob/main/img/Screenshot%202023-12-27%20170412.png?raw=true" alt="Upload Step 1" width="500">
-  <img src="https://github.com/olcaykoyuturk/YoloV8_CustomObjectDetection/blob/main/img/Screenshot%202023-12-27%20170340.png?raw=true" alt="Upload Step 2" width="500">
+  <img src="https://github.com/olcaykoyuturk/YoloV8_CustomObjectDetection/blob/main/img/Screenshot%202023-12-27%20170412.png?raw=true" alt="Upload Step 1" width="400">
+  <img src="https://github.com/olcaykoyuturk/YoloV8_CustomObjectDetection/blob/main/img/Screenshot%202023-12-27%20170340.png?raw=true" alt="Upload Step 2" width="400">
 </p>
